@@ -5,6 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh9871&label=Profile%20views&color=0e75b6&style=plastic" alt="durgesh9871" /> </p>
 
+<h2>Description :- Passionate developer with strong problem-solving abilities,
+proficient in Javascript, React and Node Keen to learn new
+technologies and frameworks. Looking forward to working in a
+fast-paced environment and playing a key role in the
+company's growth. Hope to work in a challenging environment
+as a specialized MERN stack developer.</h2>
+
+
 - 🔭 I’m currently looking for job **as MERN Stack Developer**
 
 - 🌱 I’m exploring **new technologies**
