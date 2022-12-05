@@ -28,7 +28,6 @@ as a specialized MERN stack developer.
 
 ### ⚡ My Interest's :-   Backend Development 
 <br>
-<br>
  
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
