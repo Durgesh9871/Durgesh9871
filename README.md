@@ -51,8 +51,7 @@ as a specialized MERN stack developer.
 ### 🔥 My contribution streak
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgesh9871&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="durgesh9871" /></p>
 
-<br>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgesh9871&show_icons=true&title_color=08bbf7&text_color=ffffff&bg_color=010000&locale=en" alt="durgesh9871" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh9871&theme=highcontrast" alt="durgesh9871" /></p>
