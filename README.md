@@ -33,7 +33,8 @@ as a specialized MERN stack developer.
 <a href="https://linkedin.com/in/durgesh-singh-293590239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-singh-293590239" height="30" width="40" /></a>
 <a target={"_blank"} href="https://wa.me/+9871686098?text="><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="imdebabrata" height="30" width="auto" /></a>
 
-  
+ <br>
+ <br>
 
 <h2 align="left">👩‍💻Ask me about:</h2>
 <a href="https://codesandbox.com/durgesh9871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="durgesh9871" height="30" width="40" /></a>
