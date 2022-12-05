@@ -27,7 +27,9 @@ as a specialized MERN stack developer.
 
 
 ### ⚡ My Interest's :-   Backend Development 
-
+<br>
+<br>
+ 
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-singh-293590239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-singh-293590239" height="30" width="40" /></a>
@@ -36,7 +38,7 @@ as a specialized MERN stack developer.
  <br>
  <br>
 
-<h2 align="left">👩‍💻Ask me about:</h2>
+<h3 align="left">👩‍💻Ask me about:</h3>
 <a href="https://codesandbox.com/durgesh9871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="durgesh9871" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devisingh9871686098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devisingh9871686098" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devisingh9p0ze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devisingh9p0ze" height="30" width="40" /></a>
