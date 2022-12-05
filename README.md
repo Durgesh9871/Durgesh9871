@@ -53,6 +53,7 @@ as a specialized MERN stack developer.
 username=durgesh9871&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="durgesh9871" /></p>
 
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgesh9871&show_icons=true&title_color=08bbf7&text_color=ffffff&bg_color=010000&locale=en" alt="durgesh9871" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh9871&theme=highcontrast" alt="durgesh9871" /></p>
