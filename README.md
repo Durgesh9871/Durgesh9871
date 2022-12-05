@@ -35,7 +35,7 @@ as a specialized MERN stack developer.
 
   
 
-<h2 align="left">⚡Ask me about:</h2>
+<h2 align="left">👩‍💻Ask me about:</h2>
 <a href="https://codesandbox.com/durgesh9871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="durgesh9871" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devisingh9871686098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devisingh9871686098" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devisingh9p0ze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devisingh9p0ze" height="30" width="40" /></a>
