@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh9871&label=Profile%20views&color=0e75b6&style=plastic" alt="durgesh9871" /> </p>
 
-### Summary :-  
+### Summary :-  n 
 Passionate developer with strong problem-solving abilities,
 proficient in Javascript, React and Node Keen to learn new
 technologies and frameworks. Looking forward to working in a
