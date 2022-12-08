@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Singh</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from  India</h3>
 
 ![logo](https://github.com/Durgesh9871/Durgesh9871/blob/main/cover.png)
 
