@@ -50,7 +50,7 @@ as a specialized MERN stack developer.
 
 
 
-### 🔥 My contribution streak
+### 🔥 My contribution  streak
 ![GitHub most_use_language](https://github-readme-stats.vercel.app/api/top-langs?username=durgesh9871&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=000000&locale=en&layout=compact)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
