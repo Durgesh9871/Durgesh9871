@@ -25,8 +25,6 @@ as a specialized MERN stack developer.
 
 - 📫 How to reach me **devisingh9871686098@gmail.com** 
 
-
-### ⚡ My Interest's :-  Backend Development 
 <br>
  
 <h3 align="left">📱 Connect with  me:</h3>
