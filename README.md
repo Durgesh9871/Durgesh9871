@@ -27,7 +27,7 @@ as a specialized MERN stack developer.
 
 <br>
  
-<h3 align="left">📱 Connect with  me:</h3>
+<h3 align="left">📱 Connect with  me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/durgesh-singh-293590239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-singh-293590239" height="30" width="40" /></a>
 <a target={"_blank"} href="https://wa.me/+9871686098?text="><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="imdebabrata" height="30" width="auto" /></a>
