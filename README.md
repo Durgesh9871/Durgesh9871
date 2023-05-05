@@ -19,7 +19,7 @@ as a specialized MERN stack developer.
 
 - 🌱 I’m exploring **new technologies**
 
-- 👨‍💻 All of my projects are available at [https://durgesh9871.github.io/](https://durgesh9871.github.io/)
+<h2> PORTFOLIO [https://durgesh9871.github.io/](https://durgesh9871.github.io/) </h2>
 
 - In my free time I am solving problems **on GeeksforGeeks and Leetcode**
 
