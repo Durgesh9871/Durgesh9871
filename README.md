@@ -1,60 +1,50 @@
-<h1 align="center">Hi 👋, I'm Durgesh Singh </h1>
-<h3 align="center">A passionate MERN Stack Developer from India </h3> 
+# Hi, I'm Durgesh Singh 👋
 
-![logo](https://github.com/Durgesh9871/Durgesh9871/blob/main/cover.png)
+### AI Engineer | Generative AI · Agentic Systems · Full-Stack Engineering
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh9871&label=Profile%20views&color=0e75b6&style=plastic" alt="durgesh9871" /> </p>
+I build AI-powered applications that connect LLMs, retrieval, tools, and software people can use. My experience spans Python-based AI workflows and full-stack development with React, Next.js, Node.js, and Express.
 
-### Summary :-  
-Passionate developer with strong problem-solving abilities,
-proficient in Javascript, React and Node Keen to learn new
-technologies and frameworks. Looking forward to working in a
-fast-paced environment and playing a key role in the
-company's growth. Hope to work in a challenging environment
-as a specialized MERN stack developer.
+I bring **4 years of professional engineering experience** and focus on reliable AI systems with clear data flows, validation, and practical evaluation.
 
+- **Currently building:** a Self-Driving Data Analyst with Python, SQL, and agent workflows
+- **Core interests:** RAG, agent orchestration, LLM evaluation, AI application backends, and production system design
+- **Based in:** New Delhi, India
+- **Open to:** AI Engineer and Generative AI Engineer opportunities
 
+## Selected work
 
-- 🔭 I’m currently looking for job **as MERN Stack Developer**
+### Cold Chain Logistics AI Assistant
+An agent workflow combining fleet telemetry, corridor weather, and logistics SOP documents to produce an operational summary and action plan.
 
-- 🌱 I’m exploring **new technologies**
+**Stack:** Python · LangGraph · LangChain · SQL Server · Pinecone · Hugging Face embeddings · Streamlit
 
-<h2> PORTFOLIO  (https://durgesh9871.github.io/) </h2>
+### Self-Driving Data Analyst — in progress
+A structured analytics workflow that takes a business question through data retrieval, SQL analysis, and an evidence-based insight report.
 
-- In my free time I am solving problems **on GeeksforGeeks and Leetcode**
+**Stack:** Python · SQL · LLMs · Agent workflows
 
-- 📫 How to reach me **devisingh9871686098@gmail.com** 
+### Generative AI learning repository
+A public repository of Generative AI learning resources and tutorials.
 
-<br>
- 
-<h3 align="left">📱 Connect with  me:  </h3>
-<p align="left">
-<a href="https://linkedin.com/in/durgesh-singh-293590239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-singh-293590239" height="30" width="40" /></a>
-<a target={"_blank"} href="https://wa.me/+9871686098?text="><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="imdebabrata" height="30" width="auto" /></a>
+[View repository →](https://github.com/Durgesh9871/Generative-AI-Indepth-Basic-to-Advance)
 
-<br>
+## Technical focus
 
-<h3 align="left">👩‍💻Ask me about: </h3>
-<a href="https://codesandbox.com/durgesh9871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="durgesh9871" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devisingh9871686098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devisingh9871686098" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devisingh9p0ze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devisingh9p0ze" height="30" width="40" /></a>
-</p>
+| Area | Tools and concepts |
+|---|---|
+| **Languages** | Python, JavaScript, SQL |
+| **AI applications** | OpenAI APIs, LangChain, LangGraph, CrewAI, Google ADK, tool calling |
+| **RAG and retrieval** | Document ingestion, chunking, embeddings, Pinecone, hybrid search |
+| **Evaluation and reliability** | Retrieval and answer evaluation, validation, guardrails, caching, logging |
+| **Backend and frontend** | REST APIs, Node.js, Express, React, Next.js, Streamlit |
+| **Data and delivery** | SQL Server, MongoDB, Docker, Git, GitHub |
 
+## Connect
 
+- [LinkedIn](https://linkedin.com/in/durgesh-singh-293590239)
+- [Email](mailto:devisingh9871686098@gmail.com)
+- [Repositories](https://github.com/Durgesh9871?tab=repositories)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-### 🔥 My contribution streak
-![GitHub most_use_language](https://github-readme-stats.vercel.app/api/top-langs?username=durgesh9871&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=000000&locale=en&layout=compact)
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
-username=durgesh9871&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="durgesh9871" /></p>
- -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgesh9871&show_icons=true&title_color=08bbf7&text_color=ffffff&bg_color=010000&locale=en" alt="durgesh9871" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh9871&theme=highcontrast" alt="durgesh9871" /></p>
+*I care about building AI features that are inspectable, testable, and useful beyond a demo.*
