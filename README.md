@@ -23,7 +23,7 @@ I build AI applications that connect LLMs, retrieval, tools, and software people
 
 ## 🤖 Profile assistant: what is actually possible?
 
-A GitHub README is a static document. It cannot run JavaScript, receive chat messages, call an LLM, or keep a conversation. The panel below is a **design preview**, while the linked project contains the architecture for a real assistant. A live bot can be added once the project has a deployed API and frontend.
+Architecture for a real assistant
 
 ~~~text
 ┌─ durgesh-ai / assistant-preview ──────────────────────────┐
@@ -41,7 +41,7 @@ A GitHub README is a static document. It cannot run JavaScript, receive chat mes
 
 <a href="https://github.com/Durgesh9871/ai-practice-projects"><img src="https://img.shields.io/badge/Explore_the_AI_system-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI system" /></a>
 
-## 🏗️ System design: from request to measured answer
+## 🏗️AI System design: from request to measured answer
 
 The design below is intentionally larger than a simple prompt-to-response chain. It separates the control plane, data plane, policy decisions, and quality feedback loop.
 
